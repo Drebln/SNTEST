@@ -19,3 +19,6 @@ pip3 install pick
 4. Run the python code
 5. 
 Python3 microservice
+
+After the code has run, you will be asked for the cluster to be evaluated. 
+Then click enter, then the results are displayed.
