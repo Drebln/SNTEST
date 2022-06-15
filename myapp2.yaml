@@ -1,12 +1,12 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: mytest
+  name: mytest2
   labels:
     team: sharenow
 spec:
   containers:
-  - name: nginx
-    image: bitnami/nginx:1.14.2
+  - name: test
+    image: test:latest
     ports:
     - containerPort: 80
